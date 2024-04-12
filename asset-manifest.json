@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Anbu-Portfolio/static/css/main.81b9fa7c.css",
+    "main.js": "/Anbu-Portfolio/static/js/main.cbcc31f5.js",
+    "static/js/453.1407b060.chunk.js": "/Anbu-Portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/about.png": "/Anbu-Portfolio/static/media/about.619ff0b319a55d0c05b1.png",
+    "static/media/hero.png": "/Anbu-Portfolio/static/media/hero.f14f30c6d01a97df04f6.png",
+    "static/media/resume.jpg": "/Anbu-Portfolio/static/media/resume.40d9ec3d0701d254f50f.jpg",
+    "static/media/e-commerce.png": "/Anbu-Portfolio/static/media/e-commerce.43a2ed8bab2dbcacf482.png",
+    "static/media/e-commerce-2.png": "/Anbu-Portfolio/static/media/e-commerce-2.73df366e8cff79c40178.png",
+    "index.html": "/Anbu-Portfolio/index.html",
+    "main.81b9fa7c.css.map": "/Anbu-Portfolio/static/css/main.81b9fa7c.css.map",
+    "main.cbcc31f5.js.map": "/Anbu-Portfolio/static/js/main.cbcc31f5.js.map",
+    "453.1407b060.chunk.js.map": "/Anbu-Portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81b9fa7c.css",
+    "static/js/main.cbcc31f5.js"
+  ]
+}
